@@ -1,4 +1,4 @@
-zmq4.nim
+zmq.nim
 ========
 
 Nimrod bindings for ZeroMQ (version 4)
